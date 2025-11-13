@@ -1,9 +1,16 @@
 <h1 align="center">Rahul Paswan</h1>
-<h3 align="center">AWS Certified DevOps Engineer</h3>
 
 <p align="center">
-✉️ rahul123@gmail.com  |  🔗 <a href="https://linkedin.com/in/rahulpaswan">linkedin.com/in/rahulpaswan</a>  
-💻 <a href="https://github.com/rahulverse">github.com/rahulverse</a>  |  🌐 <a href="https://rahulverse.dev">rahulverse.dev</a>
+📞 +91 9182185756  | ✉️ rahulkumarpaswan941@gmail.com  |  🔗 <a href="https://www.linkedin.com/in/rahul-paswan-b1b57b227">linkedin.com/in/rahulpaswan</a>  
+💻 <a href="https://github.com/rahulverse">github.com/rahulverse</a>  |  🌐 <a href="https://rahulverse.vercel.app">rahulverse.app</a>
+</p>
+
+
+<p align="center">
+📞 +91 7418529630 | ✉️ rahulkumarpaswan941@gmail.com | 
+🔗 <a href="https://www.linkedin.com/in/rahul-paswan-b1b57b227">linkedin.com/in/rahul-paswan-b1b57b227</a> | 
+💻 <a href="https://github.com/Rahul-Kumar-Paswan">github.com/Rahul-Kumar-Paswan</a> | 
+🌐 <a href="https://rahulpaswanverse.vercel.app">rahulpaswanverse.vercel.app</a>
 </p>
 
 ---
