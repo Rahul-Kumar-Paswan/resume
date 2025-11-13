@@ -71,7 +71,7 @@ _Dundigal, Hyderabad, Telangana_
 *June 2019 – April 2023*
 
 
-<table style="border-collapse: collapse; width: 100%;">
+<table style="border: none; border-collapse: collapse; width: 100%;">
   <tr>
     <td><strong>Marri Laxman Reddy Institute of Technology and Management (B.Tech.)</strong></td>
     <td><em>Dundigal, Hyderabad, Telangana</em></td>
@@ -81,4 +81,5 @@ _Dundigal, Hyderabad, Telangana_
     <td><em>June 2019 – April 2023</em></td>
   </tr>
 </table>
+
 
