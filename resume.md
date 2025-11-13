@@ -70,3 +70,15 @@ _Dundigal, Hyderabad, Telangana_
 **Computer Science Engineering** – CGPA: 8.1  
 *June 2019 – April 2023*
 
+
+<table style="border-collapse: collapse; width: 100%;">
+  <tr>
+    <td><strong>Marri Laxman Reddy Institute of Technology and Management (B.Tech.)</strong></td>
+    <td><em>Dundigal, Hyderabad, Telangana</em></td>
+  </tr>
+  <tr>
+    <td><strong>Computer Science Engineering – CGPA: 8.1</strong></td>
+    <td><em>June 2019 – April 2023</em></td>
+  </tr>
+</table>
+
