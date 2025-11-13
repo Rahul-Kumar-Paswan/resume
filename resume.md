@@ -1,12 +1,6 @@
 <h1 align="center">Rahul Paswan</h1>
 
 <p align="center">
-📞 +91 9182185756  | ✉️ rahulkumarpaswan941@gmail.com  |  🔗 <a href="https://www.linkedin.com/in/rahul-paswan-b1b57b227">linkedin.com/in/rahulpaswan</a>  
-💻 <a href="https://github.com/rahulverse">github.com/rahulverse</a>  |  🌐 <a href="https://rahulverse.vercel.app">rahulverse.app</a>
-</p>
-
-
-<p align="center">
 📞 +91 7418529630 | ✉️ rahulkumarpaswan941@gmail.com | 
 🔗 <a href="https://www.linkedin.com/in/rahul-paswan-b1b57b227">linkedin.com/in/rahul-paswan-b1b57b227</a> | 
 💻 <a href="https://github.com/Rahul-Kumar-Paswan">github.com/Rahul-Kumar-Paswan</a> | 
@@ -60,6 +54,7 @@ AWS Certified DevOps Engineer with 2+ years of hands-on experience automating CI
 
 ## 🎓 Education
 
-**B. Tech., Computer Science Engineering**  
-*June 2019 – April 2023 | Dundigal, Hyderabad, TS*  
-- CGPA: 8.1
+| **Marri Laxman Reddy Institute of Technology and Management (B.Tech.)** | _Dundigal, Hyderabad, Telangana_ |
+|:---|---:|
+| **Computer Science Engineering – CGPA: 8.1** | *June 2019 – April 2023* |
+
