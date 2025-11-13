@@ -58,3 +58,15 @@ AWS Certified DevOps Engineer with 2+ years of hands-on experience automating CI
 |:---|---:|
 | **Computer Science Engineering – CGPA: 8.1** | *June 2019 – April 2023* |
 
+<p>
+  <strong>Marri Laxman Reddy Institute of Technology and Management (B.Tech.)</strong>
+  <span style="float: right;">Dundigal, Hyderabad, TS</span><br>
+  Computer Science Engineering – CGPA: 8.1
+  <span style="float: right;">June 2019 – April 2023</span>
+</p>
+
+**Marri Laxman Reddy Institute of Technology and Management (B.Tech.)**  
+_Dundigal, Hyderabad, Telangana_  
+**Computer Science Engineering** – CGPA: 8.1  
+*June 2019 – April 2023*
+
